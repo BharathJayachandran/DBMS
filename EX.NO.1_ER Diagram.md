@@ -19,12 +19,13 @@
 
 ### ER Diagram 
 
-![Bank_ER](https://github.com/AnnBlessy/DBMS/assets/119477835/8133347a-e969-4410-8fe7-38bb225ff6c7)
+![281397143-8133347a-e969-4410-8fe7-38bb225ff6c7](https://github.com/BharathJayachandran/DBMS/assets/122089525/38ca066a-35f2-4ace-a94a-0c9ffc81c80b)
 
 
 ### Relational model
 
-![image](https://github.com/AnnBlessy/DBMS/assets/119477835/c109e44e-a08e-434e-a24d-7cd99020f294)
+![281397304-c109e44e-a08e-434e-a24d-7cd99020f294](https://github.com/BharathJayachandran/DBMS/assets/122089525/858afb63-6737-40e3-b236-dca9369e9643)
+
 
 
 ### SQL DDL Schema 
