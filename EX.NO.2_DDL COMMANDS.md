@@ -31,8 +31,8 @@ create database studentdbb;
 ```
 
 ### OUTPUT:
-![image](https://github.com/sabithapaulraj/DBMS/assets/118343379/58fc5109-3fe3-4b71-adfa-c8de97a3eb0c)
-![image](https://github.com/sabithapaulraj/DBMS/assets/118343379/a4e4ad5f-3b5d-4d4c-b347-54957dca3420)
+![281072399-58fc5109-3fe3-4b71-adfa-c8de97a3eb0c](https://github.com/BharathJayachandran/DBMS/assets/122089525/0499e573-d393-4037-a183-e7403d8a0601)
+
 
 ### 2) Create a table student  and insert any two rows with the following fieds RegisterNumber,Name,Age,Address,Phone number
 
@@ -42,7 +42,7 @@ create database studentdbb;
 ```
 
 ### OUTPUT:
-![image](https://github.com/sabithapaulraj/DBMS/assets/118343379/2ed4d00e-5741-4f71-a0d2-0384650e6dae)
+![281076398-2ed4d00e-5741-4f71-a0d2-0384650e6dae](https://github.com/BharathJayachandran/DBMS/assets/122089525/9e71e4e7-2c4e-4e22-96df-553b99b952cb)
 
 
 ### 3) Alter the above student table by adding another attribute department
@@ -53,10 +53,8 @@ create database studentdbb;
 ```
 
 ### OUTPUT:
-![image](https://github.com/sabithapaulraj/DBMS/assets/118343379/0d709df7-9e80-4b2c-a358-dac94a29b6fa)
+![281076826-0d709df7-9e80-4b2c-a358-dac94a29b6fa](https://github.com/BharathJayachandran/DBMS/assets/122089525/a616203a-5ff1-4b33-b6e1-1a3d24b659cb)
 
-
-### 4) Rename the student table to mystudent
 
 ### SQL QUERY: 
 ```
@@ -64,7 +62,7 @@ rename table student to mystudent;
 ```
 
 ### OUTPUT:
-![image](https://github.com/sabithapaulraj/DBMS/assets/118343379/331990e2-babb-47a7-8576-d71ef8928eb3)
+![281077173-331990e2-babb-47a7-8576-d71ef8928eb3](https://github.com/BharathJayachandran/DBMS/assets/122089525/21a1840c-59e4-45e4-8ba8-bb1e41f69ac5)
 
 
 ### 5) Delete the mystudent rows using truncate keyword
@@ -74,7 +72,7 @@ rename table student to mystudent;
  truncate table mystudent;
 ```
 ### OUTPUT:
-![image](https://github.com/sabithapaulraj/DBMS/assets/118343379/73984590-23c6-4463-bb92-bfd6325824df)
+![281077364-73984590-23c6-4463-bb92-bfd6325824df](https://github.com/BharathJayachandran/DBMS/assets/122089525/5cf039f1-3799-4f34-ad82-a73624e4f4df)
 
 ### 4) Drop the mystudent table
  
@@ -84,7 +82,8 @@ rename table student to mystudent;
 ```
 
 ### OUTPUT:
-![image](https://github.com/sabithapaulraj/DBMS/assets/118343379/f798b751-c946-4215-83de-d22ebf9c9d73)
+![281077611-f798b751-c946-4215-83de-d22ebf9c9d73](https://github.com/BharathJayachandran/DBMS/assets/122089525/ea11a062-def2-435c-af35-be5524710847)
+
 
 
 ## Result:
